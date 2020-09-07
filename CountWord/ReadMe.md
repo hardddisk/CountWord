@@ -1,0 +1,1 @@
+this was a tiny project that I was told to build on hacker rank for a job interview. Unfortunately, at the last minute, the time elapsed without the code was finished. after finishing the project I decided to save it for I really hate not finishing a project and leaving it in the middle. I'm sure many developers feel the same way.
